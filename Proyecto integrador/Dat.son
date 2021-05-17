@@ -1,0 +1,95 @@
+[
+    {
+        "Nick": "Ivan54",
+        "Edad": "23",
+        "Genero": "No binario",
+        "DiaInicio": "15 de 05 de 2021",
+        "HoraInicio": "10:13"
+    },
+    {
+        "Nick": "Loza",
+        "Edad": "34",
+        "Genero": "Hombre",
+        "DiaInicio": "15 de 05 de 2021",
+        "HoraInicio": "10:26"
+    },
+    {
+        "Nick": "Ludmila89",
+        "Edad": "24",
+        "Genero": "No binario",
+        "DiaInicio": "15 de 05 de 2021",
+        "HoraInicio": "11:29"
+    },
+    {
+        "Nick": "ivan09",
+        "Edad": "34",
+        "Genero": "Prefiero no decir",
+        "DiaInicio": "15 de 05 de 2021",
+        "HoraInicio": "11:30"
+    },
+    {
+        "Nick": "Julia24",
+        "Edad": "45",
+        "Genero": "Hombre",
+        "DiaInicio": "15 de 05 de 2021",
+        "HoraInicio": "11:34"
+    },
+    {
+        "Nick": "LOBA",
+        "Edad": "45",
+        "Genero": "Hombre",
+        "DiaInicio": "15 de 05 de 2021",
+        "HoraInicio": "12:11"
+    },
+    {
+        "Nick": "Luan",
+        "Edad": "43",
+        "Genero": "Hombre",
+        "DiaInicio": "15 de 05 de 2021",
+        "HoraInicio": "12:15"
+    },
+    {
+        "Nick": "Lopez34",
+        "Edad": "56",
+        "Genero": "No binario",
+        "DiaInicio": "15 de 05 de 2021",
+        "HoraInicio": "13:10",
+        "MensGan": "Ganaste....",
+        "MensPer": "Perdiste........",
+        "MensTiemp": false
+    },
+    {
+        "Nick": "Killer20",
+        "Edad": "23",
+        "Genero": "Prefiero no decir",
+        "DiaInicio": "15 de 05 de 2021",
+        "HoraInicio": "13:14",
+        "MensGan": "Ganaste.... kKKKKKKKK",
+        "MensPer": "Perdiste........KKKKKKKKK",
+        "MensTiemp": "Te queda  X segundos para terminarKKKKKKKKK"
+    },
+    {
+        "Nick": "Gabita",
+        "Edad": "12",
+        "Genero": "No binario",
+        "DiaInicio": "15 de 05 de 2021",
+        "HoraInicio": "13:23"
+    },
+    {
+        "Nick": "Lopecito",
+        "Edad": "45",
+        "Genero": "Mujer",
+        "DiaInicio": "16 de 05 de 2021",
+        "HoraInicio": "16:02",
+        "MensGan": "Ganaste....",
+        "MensPer": "Perdiste........",
+        "MensTiemp": "Te queda  X segundos para terminar"
+    },
+    {
+        "Nick": "GabitoH",
+        "Edad": "26",
+        "Genero": "Hombre",
+        "DiaInicio": "16 de 05 de 2021",
+        "HoraInicio": "16:21"
+    }
+]
